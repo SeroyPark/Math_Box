@@ -1,0 +1,35 @@
+[33mcommit efac4efc892f915ec93d0f7308d07888f196f7d8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: SeroyPark <93522066+SeroyPark@users.noreply.github.com>
+Date:   Mon Jan 30 21:30:47 2023 +0900
+
+    Make README.md look nice
+
+[33mcommit e4be80cf718dbce873d21a13a84857400eecd01f[m
+Author: SeroyPark <93522066+SeroyPark@users.noreply.github.com>
+Date:   Mon Jan 30 21:00:15 2023 +0900
+
+    Add the info of calculator.py in README.md
+
+[33mcommit a0c8dd83814b5a0bc4aa077fa8a5c7919374793c[m
+Author: pepsi <jkspop12@naver.com>
+Date:   Mon Jan 30 20:57:08 2023 +0900
+
+    Create README.md
+
+[33mcommit 651dc94c896798bbbf28c51ae4f84c3998aaf9d1[m
+Author: pepsi <jkspop12@naver.com>
+Date:   Mon Jan 30 19:01:51 2023 +0900
+
+    Add title comment and Create meeting-log
+
+[33mcommit 311921813fc873ee04dc71fd499b0bdc825d1ded[m
+Author: pepsi <jkspop12@naver.com>
+Date:   Mon Jan 30 18:51:51 2023 +0900
+
+     Create calculator.py and License
+
+[33mcommit c4cf93721076f03c9d9b407bb1bded5193cd7711[m
+Author: pepsi <jkspop12@naver.com>
+Date:   Mon Jan 30 18:49:38 2023 +0900
+
+    Create calculator.py and License
